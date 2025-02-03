@@ -87,6 +87,9 @@ Dashboard
         Add, edit, or delete employee records.
     ![Dashboard](./screenshots/dashboard-page.png)
 
+## Links
+GitHub Repository: [HR System](https://github.com/Azadehpedramnia/-HR-System.git)
+
 ## Known Issues
 Ensure the .env file is properly configured for both frontend and backend before running.
 Database must be seeded with at least one ADMIN user to access the dashboard.
